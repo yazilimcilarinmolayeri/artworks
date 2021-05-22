@@ -1,2 +1,2 @@
-# ymy-artworks
-YMY görsel çalışmaları
+# artworks
+YMY artworks
